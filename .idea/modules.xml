@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EnchantmentLeveler.iml" filepath="$PROJECT_DIR$/.idea/modules/EnchantmentLeveler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EnchantmentLeveler_main.iml" filepath="$PROJECT_DIR$/.idea/modules/EnchantmentLeveler_main.iml" group="EnchantmentLeveler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EnchantmentLeveler_test.iml" filepath="$PROJECT_DIR$/.idea/modules/EnchantmentLeveler_test.iml" group="EnchantmentLeveler" />
+    </modules>
+  </component>
+</project>
