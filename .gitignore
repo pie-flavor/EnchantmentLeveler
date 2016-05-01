@@ -280,3 +280,4 @@ gradle-app.setting
 .gradle/2.9/taskArtifacts/fileSnapshots.bin
 .gradle/2.9/taskArtifacts/outputFileStates.bin
 .gradle/2.9/taskArtifacts/taskArtifacts.bin
+.idea/workspace.xml
