@@ -6,6 +6,7 @@
 .project
 .metadata
 bin/
+/.idea
 tmp/
 *.tmp
 *.bak
@@ -68,14 +69,12 @@ build/
 *.tlb
 *.tli
 *.tlh
-*.tmp
 *.tmp_proj
 *.log
 *.vspscc
 *.vssscc
 .builds
 *.pidb
-*.log
 *.scc
 
 # Visual C++ cache files
@@ -194,7 +193,6 @@ $RECYCLE.BIN/
 *.egg
 *.egg-info
 dist/
-build/
 eggs/
 parts/
 var/
@@ -218,10 +216,8 @@ pip-log.txt
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # User-specific stuff:
-.idea/workspace.xml
 .idea/tasks.xml
 .idea/dictionaries
-.idea/vcs.xml
 .idea/jsLibraryMappings.xml
 
 # Sensitive or high-churn files:
@@ -233,9 +229,6 @@ pip-log.txt
 .idea/uiDesigner.xml
 
 # Gradle:
-.idea/gradle.xml
-.idea/libraries
-
 # Mongo Explorer plugin:
 .idea/mongoSettings.xml
 
@@ -260,8 +253,6 @@ crashlytics-build.properties
 fabric.properties
 
 .gradle
-build/
-
 # Ignore Gradle GUI config
 gradle-app.setting
 
@@ -280,6 +271,4 @@ gradle-app.setting
 .gradle/2.9/taskArtifacts/fileSnapshots.bin
 .gradle/2.9/taskArtifacts/outputFileStates.bin
 .gradle/2.9/taskArtifacts/taskArtifacts.bin
-.idea/workspace.xml
 .idea/workspace.xml___jb_tmp___
-.idea/workspace.xml
